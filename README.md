@@ -1,18 +1,3 @@
-# Horace Jekyll Theme v1.2.0
-
-[Theme Live Demo](https://horace.netlify.com/)
-
-## Features
-
-* Mobile-ready
-* Contact form built-in 
-* Social icons built-in
-* Social sharing built-in
-* Mailchimp subscription form
-* Free images pack for your blog cover
-* Code Syntax Highlight with [Prism.js](https://prismjs.com/)
-* Support for Disqus comments
-
 ## Getting Started
 
 **Table of Contents**
@@ -44,7 +29,7 @@ The theme configuration options can be found within the **_config.yml** file. Mo
 ### 2. Author configuration
 
 * name - the name of the post/blog author.
-* image - the author profile image, shown at the bottom of each post and in the intro section on the home page. The author image can be found in the horace/assets/images/authorimage.jpg location.
+* image - the author profile image, shown at the bottom of each post and in the intro section on the home page. The author image can be found in the /assets/images/authorimage.jpg location.
 * greetings - used in the home page for the author intro section.
 * description - used in the home page for the author intro section.
 * bio - the author biography shown at the bottom of each post.
@@ -72,7 +57,7 @@ url: /newpage/
 
 ### 6. Images
 
-Images for pages are located in the horace/assets/images folder and images for posts are located in the horace/assets/images/posts directory.
+Images for pages are located in the /assets/images folder and images for posts are located in the /assets/images/posts directory.
 
 #### Image With Caption
 
@@ -129,9 +114,3 @@ Most traditional web hosting providers let you upload files to their servers ove
 ##### Amazon S3
 
 If you want to host your site on Amazon S3, you can do so by using the [s3_website application](https://github.com/laurilehmijoki/s3_website). It will push your site to Amazon S3 where it can be served like any web server, dynamically scaling to almost unlimited traffic.
-
-### 9. Support
-
-The documentation included provides all the information you need to get started with the theme. However, if you have any questions you can email us at hello@justgoodthemes.com, and we will be happy to help you.
-
-*Also, if you have any bug reports, or feature requests, please let us know!*

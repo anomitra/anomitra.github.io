@@ -104,7 +104,7 @@
 }
 
 .site-logo img {
-  max-height: 48px;
+  max-height: 75px;
 }
 
 .site-title {
@@ -139,9 +139,18 @@
 
 .site-header .menu-item {
   display: inline-block;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.5;
-  margin: 0 25px 0 0;
+  margin: 0 0 0 0;
+}
+.site-header .menu-item:after {
+  color:#aaa;
+  content: "//";
+  margin-left: 6px;
+  margin-right: 6px;
+}
+.site-header .menu-item:last-child:after {
+  content:"";
 }
 
 .site-header .sidebar-toggle {

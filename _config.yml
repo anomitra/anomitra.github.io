@@ -3,7 +3,7 @@ name: "Anomitra's Blog"
 description: 'I write about tech, movies, music, crazy ideas, and anything else that catches my fancy.'
 meta_description: ''
 #logo: 'assets/images/logo.png'
-logo: 'assets/images/signature_logo.png'
+logo: 'assets/images/header.png'
 favicon: 'assets/images/favicon.ico'
 production_url: https://anomitra.github.io
 disqus: 'anomitra-me'

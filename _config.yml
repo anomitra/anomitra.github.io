@@ -16,7 +16,7 @@ cover_image: bc_1.jpg
 # Author
 author:
   name: 'Anomitra Saha'
-  image: 'blank-headshot.jpg'
+  image: 'headshot.jpg'
   greetings: 'Hi there!'
   description: "I'm a software developer by profession, and I write about tech, movies, music, crazy ideas, and anything else that catches my fancy. Scroll down for some of my recent posts!"
   bio: 'This is a short placeholder for a bio which will be added later.'
@@ -36,6 +36,7 @@ instagram: 'anomitra_'
 #pinterest: 'username'
 linkedin: 'anomitra.saha'
 #producthunt: '@username'
+stackoverflow: '3650586'
 
 # Navigation
 navigation:

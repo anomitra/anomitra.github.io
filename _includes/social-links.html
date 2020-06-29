@@ -50,13 +50,19 @@
     {% if site.linkedin %}
     <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank">
         <span class="fa-linkedin fa" aria-hidden="true"></span>
-        <span class="screen-reader-text">Linkedin</span>
+        <span class="screen-reader-text">LinkedIn</span>
     </a>
     {% endif %}
     {% if site.producthunt %}
     <a href="https://www.producthunt.com/{{ site.producthunt }}" target="_blank">
         <span class="fa-product-hunt fa" aria-hidden="true"></span>
         <span class="screen-reader-text">ProductHunt</span>
+    </a>
+    {% endif %}
+    {% if site.stackoverflow %}
+    <a href="https://www.stackoverflow.com/users/{{ site.producthunt }}" target="_blank">
+        <span class="fa-stack-overflow fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Stack Overflow</span>
     </a>
     {% endif %}
 </p>

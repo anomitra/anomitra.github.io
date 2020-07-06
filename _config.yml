@@ -1,6 +1,6 @@
-# Site setings
+# Site settings
 name: "Anomitra's Blog"
-description: 'I write about tech, movies, music, crazy ideas, and anything else that catches my fancy.'
+description: 'I write about tech, productivity, music, crazy ideas, and anything else that catches my fancy.'
 meta_description: ''
 #logo: 'assets/images/logo.png'
 logo: 'assets/images/header.png'
@@ -18,13 +18,13 @@ author:
   name: 'Anomitra Saha'
   image: 'headshot.jpg'
   greetings: 'Hi there!'
-  description: "I'm a software developer by profession, and I write about tech, movies, music, crazy ideas, and anything else that catches my fancy. Scroll down for some of my recent posts!"
+  description: "I'm a software developer by profession, and I write about tech, productivity, music, crazy ideas, and anything else that catches my fancy. Scroll down for some of my recent posts!"
   bio: 'This is a short placeholder for a bio which will be added later.'
 
 # Contact form setings
-email: testmail@gmail.com
-contact_page_description: "This theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+# email: testmail@gmail.com
+# contact_page_description: "This theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+# thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
 twitter: 'RickterScale_'
@@ -42,10 +42,10 @@ stackoverflow: '3650586'
 navigation:
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
-  - text: Contact Me
-    url: /contact
+  - text: Right Now
+    url: /now
+  - text: Resumé
+    url: /assets/docs/resume.pdf
 
 # Required Plugins
 plugins_dir:

@@ -5,12 +5,12 @@ meta_description: ''
 #logo: 'assets/images/logo.png'
 logo: 'assets/images/header.png'
 favicon: 'assets/images/favicon.ico'
-production_url: https://anomitra.github.io
+production_url: https://anomitra.me
 disqus: 'anomitra-me'
 mailchimp_url: ''
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
-# ga_analytics: UA-49980823-11
+ga_analytics: UA-171693766-1
 
 
 # Author
